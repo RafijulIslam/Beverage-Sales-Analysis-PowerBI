@@ -25,7 +25,7 @@ The main objectives of this dashboard are to:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Image/beverage-sales-performance-dashboard.png)
+![Dashboard Preview](Image/Beverage-Sales-Performance-Dashboard.png)
 
 ---
 
